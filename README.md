@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Francis Wairimu 👋
 ### Data Scientist | Business & Revenue Strategist (Telecom, ISPs, Automotive Sales)
 
@@ -22,4 +21,3 @@ I am a Data Scientist trained at **Moringa School** with a strong commercial bac
 ### 📫 Let's Connect!
 - **LinkedIn:**(https://www.linkedin.com/in/fwairimu)
 - **Email:** [frankonest95@gmail.com]
-```
