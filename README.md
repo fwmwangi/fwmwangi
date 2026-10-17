@@ -13,9 +13,12 @@ I am a Data Scientist trained at **Moringa School** with a strong commercial bac
 
 
 ### 🛠️ Current Focus & Project Roadmap
-- 📡 **[Telecom & ISP Customer Churn Predictor](#):** Built a machine learning model to identify high-risk ISP subscribers before they cancel their plans.
-- 🚗 **Kenyan Used Car Marketplace & Valuation Analytics:** Data-driven market appraisal, inspection-score impact, and inventory pricing optimization for peer-to-peer automotive platforms.
-- 📈 **[Sales Conversion & Revenue Forecasting](#):** Automated sales pipeline analytics to predict monthly revenue with high accuracy.
+I am currently building my Data Science portfolio at **Moringa School**, applying **Python, Pandas, NumPy, Matplotlib, and Seaborn** to solve real-world commercial problems in the Kenyan market.
+
+**Upcoming Portfolio Capstone Projects:**
+- **Kenyan Used Car Marketplace & Valuation Analytics:** Data-driven market appraisal, inspection-score impact, and inventory pricing optimization for peer-to-peer automotive platforms.
+- **Telecom & ISP Customer Retention Analysis:** Identifying key drivers of subscriber churn and optimizing territory sales performance.
+- **Sales Pipeline & Revenue Forecasting:** Transforming raw sales activity into automated visual dashboards and conversion predictions.
 
 
 ### 📫 Let's Connect!
